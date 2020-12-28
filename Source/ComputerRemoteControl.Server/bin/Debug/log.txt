@@ -1,0 +1,5 @@
+User: 192.168.1.235:50040 Command: Login Date: 1/18/2020 3:02:50 PM
+User: 192.168.1.235:50040 Command: Processes Date: 1/18/2020 3:02:52 PM
+User: 192.168.1.235:50040 Command: Disconnect Date: 1/18/2020 3:03:01 PMUser: 127.0.0.1:15302 Command: Login Date: 1/19/2020 10:23:43 AM
+User: 127.0.0.1:15302 Command: Processes Date: 1/19/2020 10:24:06 AM
+User: 127.0.0.1:15302 Command: Disconnect Date: 1/19/2020 10:24:44 AM

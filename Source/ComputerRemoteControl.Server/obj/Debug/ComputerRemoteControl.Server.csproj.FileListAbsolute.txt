@@ -1,0 +1,14 @@
+D:\Projects\University\SP\ComputerRemoteControl\ComputerRemoteControl.Server\bin\Debug\ComputerRemoteControl.Server.exe.config
+D:\Projects\University\SP\ComputerRemoteControl\ComputerRemoteControl.Server\bin\Debug\ComputerRemoteControl.Server.exe
+D:\Projects\University\SP\ComputerRemoteControl\ComputerRemoteControl.Server\bin\Debug\ComputerRemoteControl.Server.pdb
+D:\Projects\University\SP\ComputerRemoteControl\ComputerRemoteControl.Server\bin\Debug\ComputerRemoteControl.Shared.dll
+D:\Projects\University\SP\ComputerRemoteControl\ComputerRemoteControl.Server\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\University\SP\ComputerRemoteControl\ComputerRemoteControl.Server\bin\Debug\ComputerRemoteControl.Shared.pdb
+D:\Projects\University\SP\ComputerRemoteControl\ComputerRemoteControl.Server\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\University\SP\ComputerRemoteControl\ComputerRemoteControl.Server\obj\Debug\ComputerRemoteControl.Server.csprojAssemblyReference.cache
+D:\Projects\University\SP\ComputerRemoteControl\ComputerRemoteControl.Server\obj\Debug\ComputerRemoteControl.Server.Form1.resources
+D:\Projects\University\SP\ComputerRemoteControl\ComputerRemoteControl.Server\obj\Debug\ComputerRemoteControl.Server.Properties.Resources.resources
+D:\Projects\University\SP\ComputerRemoteControl\ComputerRemoteControl.Server\obj\Debug\ComputerRemoteControl.Server.csproj.GenerateResource.cache
+D:\Projects\University\SP\ComputerRemoteControl\ComputerRemoteControl.Server\obj\Debug\ComputerRemoteControl.Server.csproj.CopyComplete
+D:\Projects\University\SP\ComputerRemoteControl\ComputerRemoteControl.Server\obj\Debug\ComputerRemoteControl.Server.exe
+D:\Projects\University\SP\ComputerRemoteControl\ComputerRemoteControl.Server\obj\Debug\ComputerRemoteControl.Server.pdb

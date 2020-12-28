@@ -1,0 +1,8 @@
+D:\Projects\University\SP\ComputerRemoteControl\ComputerRemoteControl.Shared\bin\Release\ComputerRemoteControl.Shared.dll
+D:\Projects\University\SP\ComputerRemoteControl\ComputerRemoteControl.Shared\bin\Release\ComputerRemoteControl.Shared.pdb
+D:\Projects\University\SP\ComputerRemoteControl\ComputerRemoteControl.Shared\bin\Release\Newtonsoft.Json.dll
+D:\Projects\University\SP\ComputerRemoteControl\ComputerRemoteControl.Shared\bin\Release\Newtonsoft.Json.xml
+D:\Projects\University\SP\ComputerRemoteControl\ComputerRemoteControl.Shared\obj\Release\ComputerRemoteControl.Shared.csprojAssemblyReference.cache
+D:\Projects\University\SP\ComputerRemoteControl\ComputerRemoteControl.Shared\obj\Release\ComputerRemoteControl.Shared.csproj.CopyComplete
+D:\Projects\University\SP\ComputerRemoteControl\ComputerRemoteControl.Shared\obj\Release\ComputerRemoteControl.Shared.dll
+D:\Projects\University\SP\ComputerRemoteControl\ComputerRemoteControl.Shared\obj\Release\ComputerRemoteControl.Shared.pdb
